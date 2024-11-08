@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Assets/MyAssets/ancient-submarine/textures/submarine_lambert1_Normal.uasset
+Content/Assets/MyAssets/fern_02_2k.fbx.zip
+Content/Assets/MyAssets/SE_US_Plants_Pack.zip

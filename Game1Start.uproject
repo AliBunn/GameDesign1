@@ -10,8 +10,7 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-<<<<<<< Updated upstream
-=======
+
 		},
 		{
 			"Name": "HDRIBackdrop",
@@ -20,7 +19,7 @@
 		{
 			"Name": "USDImporter",
 			"Enabled": true
->>>>>>> Stashed changes
+
 		}
 	]
 }
